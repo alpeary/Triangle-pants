@@ -1,1 +1,1 @@
-#目标是学习学习
+#The goal is to delve into study.
