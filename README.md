@@ -1,1 +1,2 @@
 #The goal is to delve into study.
+一个存放我学习矿业智能化、自动化和编程相关练习与项目的仓库。
